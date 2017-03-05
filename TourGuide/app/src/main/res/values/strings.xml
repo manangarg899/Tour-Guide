@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Dehradun Tourism</string>
+    <string name="welcome_String">Welcome\nto\nDoon Valley</string>
+    <string name="welcome_quote">There is still one\nplace left to visit\nTap to explore it</string>
+
+    <string name="toast">Tap to locate!!</string>
+    //center activity strings
+
+    <string name="central_screen_cat1">Religious Places</string>
+    <string name="central_screen_cat2">Galleria</string>
+    <string name="central_screen_cat3">Restaurants</string>
+    <string name="central_screen_cat4">Attractions</string>
+
+    // attractions activity strings
+
+    <string name="attraction_place_1">Malsi Deer Park</string>
+    <string name="attraction_place_2">Tiger Falls</string>
+    <string name="attraction_place_3">Fun Valley</string>
+    <string name="attraction_place_4">Robber\'s Cave</string>
+    <string name="attraction_place_5">Sahastradhara</string>
+
+    //religious place activity strings
+
+    <string name="rel_place_string_1">Tapkeshwar Temple</string>
+    <string name="rel_place_string_2">Tibetan Buddhist Temple</string>
+    <string name="rel_place_string_3">Sai Baba Temple</string>
+
+    // galleria activity strings
+
+    <string name="galleria_string_1">Pacific Mall</string>
+    <string name="galleria_string_2">CrossRoads Mall</string>
+    <string name="galleria_string_3">Time Square Mall</string>
+
+    // restaurants activity strings
+
+    <string name="restaurants_string_1">"The Tavern"</string>
+    <string name="restaurants_string_2">KFC</string>
+    <string name="restaurants_string_3">Domino\'s</string>
+
+
+</resources>

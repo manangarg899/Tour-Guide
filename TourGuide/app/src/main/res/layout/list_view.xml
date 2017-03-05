@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/listView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context="com.example.manan.tourguide.AttractionActivity">
+
+    <ImageView
+        android:id="@+id/res_image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:textColor="#E57373"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
